@@ -176,12 +176,6 @@ Frontend Developer passionate about creating beautiful and responsive web experi
 - Responsive Design
 - UI/UX Implementation
 
-### Connect
-
-- 🔗 GitHub: [@ParminderKaur568](https://github.com/ParminderKaur568)
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 📧 Email: [your-email@example.com]
-
 ## ⭐ Support
 
 If you like this project, please consider:
